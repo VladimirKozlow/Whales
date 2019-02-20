@@ -1,5 +1,5 @@
 # Whales
-CS 230 Whale Recognition Project based on the [Humback Whale Identification Challenge](https://www.kaggle.com/c/humpback-whale-identification) Kaggle competition.
+CS 230 Whale Recognition Project based on the [Humback Whale Identification](https://www.kaggle.com/c/humpback-whale-identification) Kaggle competition.
 
 ## Getting Started
 This repository contains two Python 3 notebooks and a PDF document describing our work:
